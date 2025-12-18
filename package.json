@@ -1,14 +1,14 @@
 {
-  "name": "restaurant-page",
+  "name": "webpack-template",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Oxwillfollow/restaurant-page#readme",
+  "homepage": "https://github.com/Oxwillfollow/webpack-template#readme",
   "bugs": {
-    "url": "https://github.com/Oxwillfollow/restaurant-page/issues"
+    "url": "https://github.com/Oxwillfollow/webpack-template/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oxwillfollow/restaurant-page.git"
+    "url": "git+https://github.com/Oxwillfollow/webpack-template.git"
   },
   "license": "ISC",
   "author": "",
